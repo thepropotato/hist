@@ -9,7 +9,7 @@
 
 ![alt text](images/image.jpg)
 
-For security reasons, the Source code of HiSt can not be made publicly accessible. Users can install HiSt by downloading the .exe files available in this repository. <br><br>
+Users can install HiSt by downloading the .exe files available in this repository. <br><br>
 
 # Command Line Interface for HiSt
 
